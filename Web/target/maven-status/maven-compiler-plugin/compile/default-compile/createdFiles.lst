@@ -1,0 +1,10 @@
+br\hub\automationWeb\core\BaseTest.class
+br\hub\automationWeb\steps\MyStepDefinitions.class
+br\hub\automationWeb\core\Propriedades$Browsers.class
+br\hub\automationWeb\runner\Runner.class
+br\hub\automationWeb\core\DriverFactory.class
+br\hub\automationWeb\core\BasePage.class
+br\hub\automationWeb\core\DSL.class
+br\hub\automationWeb\core\Propriedades.class
+br\hub\automationWeb\core\DriverFactory$1.class
+br\hub\automationWeb\page\CampoTreinamentoPage.class
